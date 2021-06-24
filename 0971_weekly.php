@@ -1,6 +1,6 @@
 <?php
 	$template = array(
-
+//test
 
 		 array(	"type_id"=>1001,	"dow"=>"first_monday_date",    "start_time"=>"17:00:00", "event_desc"=>"VIP Outdoor")
 		,array(	"type_id"=>1001,	"dow"=>"first_monday_date",    "start_time"=>"19:15:00", "event_desc"=>"VIP Outdoor")
